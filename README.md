@@ -1,5 +1,5 @@
 # 22SU_ml-practice
-Pytorch basic tutorial site : https://pytorch.org/tutorials/beginner/basics/intro.html
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/> Pytorch basic tutorial site : https://pytorch.org/tutorials/beginner/basics/intro.html
 
 ## Goal
 * Predict the class of an input image
