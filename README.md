@@ -2,7 +2,7 @@
 Pytorch basic tutorial site : https://pytorch.org/tutorials/beginner/basics/intro.html
 
 ## Goal
-predict the class of an input image
+* Predict the class of an input image
 
 ## Dataset
 * FashionMNIST Dataset
@@ -10,7 +10,7 @@ predict the class of an input image
 * 60,000 training examples / 10,000 test examples
 
 ## Loss function
-Cross Entropy Loss
+* Cross Entropy Loss
 
 ## Optimizer
-Stochastic Gradient Descent
+* Stochastic Gradient Descent
