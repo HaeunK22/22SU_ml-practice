@@ -5,9 +5,9 @@ Pytorch basic tutorial site : https://pytorch.org/tutorials/beginner/basics/intr
 predict the class of an input image
 
 ## Dataset
-FashionMNIST Dataset
-28*28 gray scale image, 10 classes
-60,000 training examples / 10,000 test examples
+* FashionMNIST Dataset
+* 28*28 gray scale image, 10 classes
+* 60,000 training examples / 10,000 test examples
 
 ## Loss function
 Cross Entropy Loss
