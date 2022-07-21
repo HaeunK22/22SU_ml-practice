@@ -1,5 +1,4 @@
-# 22SU_ml-practice
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/> 
+# 22SU_ml-practice <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>
 Pytorch basic tutorial site : https://pytorch.org/tutorials/beginner/basics/intro.html
 
 ## Goal
