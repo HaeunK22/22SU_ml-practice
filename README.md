@@ -1,14 +1,16 @@
 # 22SU_ml-practice
 Pytorch basic tutorial site : https://pytorch.org/tutorials/beginner/basics/intro.html
 
-# This is a H2
-Goal
+## Goal
 predict the class of an input image
 
-Dataset : FashionMNIST Dataset
+## Dataset
+FashionMNIST Dataset
 28*28 gray scale image, 10 classes
 60,000 training examples / 10,000 test examples
 
-Loss function : Cross Entropy Loss
+## Loss function
+Cross Entropy Loss
 
-Optimizer : Stochastic Gradient Descent
+## Optimizer
+Stochastic Gradient Descent
