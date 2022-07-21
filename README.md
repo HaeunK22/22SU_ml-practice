@@ -1,6 +1,7 @@
 # 22SU_ml-practice
 Pytorch basic tutorial site : https://pytorch.org/tutorials/beginner/basics/intro.html
 
+# This is a H1
 Goal : predict the class of an input image
 
 Dataset : FashionMNIST Dataset
