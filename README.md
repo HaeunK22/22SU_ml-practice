@@ -1,5 +1,6 @@
 # 22SU_ml-practice
- <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=TypeScript&logoColor=white"/>Pytorch basic tutorial site : https://pytorch.org/tutorials/beginner/basics/intro.html
+ <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=TypeScript&logoColor=white"/>
+ Pytorch basic tutorial site : https://pytorch.org/tutorials/beginner/basics/intro.html
 
 Goal : predict the class of an input image
 
